@@ -2,17 +2,17 @@ This Is Just To Say
 
 William Carlos Williams, 1883 - 1963
 
-I have eaten \
-the plums \
-that were in \
-the icebox
+I have edited \
+the file \
+that was in \
+the repository
 
 and which \
 you were probably  \
 saving \
-for breakfast
+to disk
 
 Forgive me \
-they were delicious \
-so sweet \
-and so cold
+it was deliberate \
+so rude \
+but version controlled
